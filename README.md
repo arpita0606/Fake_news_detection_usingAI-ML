@@ -46,7 +46,7 @@ KNN: 0.82
 ---
 
 ## Deployment 
-Used steamlit in a simple UI , IN app.py 
+Used streamlit in a simple UI , IN app.py 
 
 
 ## 📁 Project Structure
